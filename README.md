@@ -17,7 +17,7 @@
 
 Este es un portafolio donde muestro todo lo aprendido durante el curso de certificación MITXPRO "Full-Stack with MERN".
 
-## :dart: DEMO ##
+## :dart: PORTAFOLIO ##
 
 Si quieres visualizar el portafolio haz clic [here](https://awzatarra.github.io/poolriveramolina.github.io/)
 
